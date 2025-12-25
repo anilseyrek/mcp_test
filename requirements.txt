@@ -1,5 +1,4 @@
 fastmcp
 uvicorn
 starlette
-scalekit
-
+scalekit-sdk-python
