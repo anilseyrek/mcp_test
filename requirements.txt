@@ -2,3 +2,4 @@ fastmcp
 uvicorn
 starlette
 scalekit-sdk-python
+fastapi
